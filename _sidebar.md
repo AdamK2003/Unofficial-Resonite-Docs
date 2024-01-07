@@ -1,5 +1,5 @@
 - Gameplay
-  - [Desktop Controls](/gameplay/desktopControlls.md)
+  - [Desktop Controls](/gameplay/desktopControls.md)
   - [Bot Commands](/gameplay/botCommands.md)
   - [Miscellaneous](/gameplay/misc.md)
   - Advanced
@@ -8,6 +8,8 @@
     - [Cloud Variables](/gameplay/advanced/cloudVars.md)
 
 - Protoflux
+  - [Assets](/protoflux/assets.md)
+  - [Operators](/protoflux/operators.md)
   - [All Nodes](/protoflux/allNodes.md)
 
 - Headless
